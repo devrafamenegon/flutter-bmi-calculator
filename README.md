@@ -1,5 +1,4 @@
-# flutter_calculadora_imc
-
+# Flutter BMI Calculator
 My first app using Flutter with Dart, this application is simple and the objective is calculate your BMI.
 
 
